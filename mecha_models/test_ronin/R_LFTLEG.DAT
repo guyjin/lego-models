@@ -1,0 +1,8 @@
+0 Ronin Left Leg
+0 Name: R_lftleg.dat
+0 Author: Ben Vaughan
+0 Unofficial Model
+1 7 90 -16 20 1 0 0 0 1 0 0 0 1 r_loleftleg.dat
+0 STEP
+1 7 150 -189 50 1 0 0 0 0 -1 0 1 0 ronin_lfthigh.dat
+0

@@ -1,0 +1,18 @@
+0 Untitled
+0 Name: araptest.dat
+0 Author: Ben Vaughan
+0 Unofficial Model
+1 7 0 42 0 1 0 0 0 1 0 0 0 1 arapwast.dat
+1 7 -56 24 22 -1 0 0 0 0 1 0 1 0 araprthi.dat
+1 7 56 24 22 -1 0 0 0 0 1 0 1 0 araplthi.dat
+1 7 86 124 38 1 0 0 0 0 -1 0 1 0 arapshin.dat
+1 7 -26 124 38 1 0 0 0 0 -1 0 1 0 arapshin.dat
+1 7 -57 217 -60 1 0 0 0 1 0 0 0 1 arapfoot.dat
+1 7 56 217 -60 1 0 0 0 1 0 0 0 1 arapfoot.dat
+1 7 10 -13 -60 1 0 0 0 0.173648 -0.984808 0 0.984808 0.173648 arapfshd.dat
+1 7 0 -14 59 1 0 0 0 0.173648 0.984808 0 -0.984808 0.173648 araprshd.dat
+1 7 0 -53 0 1 0 0 0 1 0 0 0 1 3680.DAT
+1 7 0 -53 0 1 0 0 0 1 0 0 0 1 3679.DAT
+1 7 0 -61 0 1 0 0 0 1 0 0 0 1 arapbody.dat
+1 7 0 -183 51 1 0 0 0 0 -1 0 1 0 araphead.dat
+0

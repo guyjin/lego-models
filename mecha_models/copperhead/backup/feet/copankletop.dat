@@ -1,0 +1,10 @@
+0 Untitled
+0 Name: copankletop.dat
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 -88.3333 64 1 "Custom" 
+0 ROTATION CONFIG 1 1
+1 0 0 -119 64 0 0 1 -1 0 0 0 -1 0 32062.DAT
+1 7 0 -119 73 0 0 -1 1 0 0 0 -1 0 axle_arm_hinge.dat
+1 4 0 -149 64 0 0 1 -1 0 0 0 -1 0 32054.DAT
+0

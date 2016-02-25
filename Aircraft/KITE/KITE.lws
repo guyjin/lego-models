@@ -1,0 +1,2396 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 60
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+AmbientColor 255 255 255
+AmbIntensity 0.250000
+
+AddNullObject Look At Point
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.756900 -0.089050 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+9
+1
+12.191579 12.948480 12.102529 222.264389 35.264389 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+TargetObject 1
+ZoomFactor 3.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 22000000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+AddNullObject KITE
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3002_0.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3004_2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3020_3.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3020_4.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3009_5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3001_6.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3009_7.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3021_8.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3021_9.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2456_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2456_11.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3622_12.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3622_13.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_14.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3032_15.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_16.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_17.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_18.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_19.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3001_20.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3010_21.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3010_22.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3701_23.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3701_24.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3894_25.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3894_26.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3038_27.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3038_28.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3460_29.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3460_30.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3460_31.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3958_32.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3666_33.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3037_34.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3037_35.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3020_36.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3009_37.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3009_38.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3895_39.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3009_40.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3795_41.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3795_42.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3956_43.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3956_44.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3022_45.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3010_46.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3701_47.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3894_48.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3894_49.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3894_50.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3005_51.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3005_52.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3039_53.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4315_54.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4315_55.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4459_56.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4459_57.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4459_58.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\6118_59.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2695_60.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3673_61.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3942_62.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2507_63.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2507_64.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3010_65.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3701_66.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3894_67.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3894_68.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3005_69.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3005_70.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3039_71.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4315_72.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4315_73.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4459_74.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4459_75.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4459_76.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\6118_77.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2695_78.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3673_79.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3942_80.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2507_81.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2507_82.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3895_83.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3009_84.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4276_85.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4276_86.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3022_87.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3020_88.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3039_89.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3673_90.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3673_91.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2880_92.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2880_93.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3002_94.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3032_95.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3710_96.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3710_97.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3795_98.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_99.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_100.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_101.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_102.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3029_103.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3001_104.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3001_105.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3009_106.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3009_107.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3001_108.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3039P34_109.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3937_110.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3938_111.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3070DISP_112.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3070DISP_113.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3297_114.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3040_115.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3040_116.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3040_117.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3040_118.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3894_119.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3894_120.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\2456_121.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3009_122.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4286_123.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4286_124.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3710_125.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3710_126.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3001_127.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3010_128.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3037_129.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3710_130.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3710_131.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4315_132.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3068_133.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3660_134.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4275_135.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4275_136.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4474_137.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3937_138.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3937_139.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3937_140.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3937_141.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3703_142.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3623_143.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3934_144.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3934_145.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3935_146.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3938_147.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3938_148.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3703_149.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3623_150.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3933_151.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3933_152.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3936_153.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3938_154.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3938_155.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3701_156.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3001_157.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3010_158.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3010_159.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3010_160.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3002_161.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3004P20_162.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3001_163.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3010_164.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3701_165.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3673_166.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3673_167.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_168.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_169.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_170.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_171.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_172.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_173.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_174.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_175.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_176.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_177.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_178.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3749_179.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3020_180.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3020_181.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3940_182.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3956_183.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3942_184.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3479_185.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3673_186.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3700_187.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3004_188.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3004_189.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3004_190.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3039_191.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3069_192.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3069_193.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3004_194.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3004_195.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3039_196.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3004_197.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3700_198.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3673_199.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3069_200.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3069_201.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3938_202.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3937_203.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3023_204.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\4733_205.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3062B_206.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3957_207.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\KITE\KITE_LW_Objects\3062B_208.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+AddLight
+Lightname 
+ShowLight 1 7
+LightMotion (unnamed)
+9
+1
+-2.550000 2.550000 2.550000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+ShadowType 1
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 7
+ClipRayColors 0
+RayRecursionLimit 16
+DataOverlayLabel 
+FullSceneParamEval 0
+
+ViewMode 3
+ViewAimpoint 0.000000 0.000000 0.000000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 4.000000
+GridNumber 40
+GridSize 1.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

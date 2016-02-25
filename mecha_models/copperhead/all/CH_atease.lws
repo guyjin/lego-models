@@ -1,0 +1,6862 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 60
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+AmbientColor 255 255 255
+AmbIntensity 0.250000
+
+AddNullObject Look At Point
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+-0.415000 -0.175000 0.927500 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+9
+1
+14.362999 14.602999 15.705499 222.264389 35.264389 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+TargetObject 1
+ZoomFactor 3.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 22000000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+AddNullObject CH_atease
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32064_0.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32064_1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3705_2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2654_3.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32000_4.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32000_5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_6.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_7.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_8.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_9.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_11.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_12.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_13.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3680_14.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_15.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_16.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\TB_JOINT_17.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\TB_JOINT_18.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4855_19.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_20.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3022_21.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2431_22.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_23.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_24.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3022_25.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_26.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6069_27.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_28.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6069P101_29.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2432_30.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3679_31.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6222_32.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_33.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_34.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_35.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_36.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3004_37.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3004_38.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2362_39.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2362_40.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_41.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3941_42.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3941_43.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_44.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3623_45.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3623_46.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3004_47.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3004_48.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3031_49.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3031_50.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3037_51.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_52.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_53.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_54.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_55.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3037_56.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2431_57.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2431_58.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4287_59.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4287_60.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_61.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_62.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_63.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_64.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_65.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_66.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_67.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4070_68.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4070_69.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3004_70.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3040_71.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3040_72.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660P01_73.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3048_74.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298P55_75.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3040_76.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3040_77.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068WARN_78.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_79.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_80.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_81.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_82.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3024_83.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3024_84.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2431P52_85.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_86.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_87.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3623_88.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_89.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3001_90.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3002_91.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3004_92.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_93.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_94.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_95.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3001_96.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3001_97.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3010_98.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3010_99.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_100.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3701_101.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32000_102.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32000_103.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_104.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_105.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_106.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_107.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3038_108.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32054_109.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32054_110.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_111.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_112.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_113.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_114.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_115.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_116.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_117.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_118.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_119.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_120.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_121.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_122.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_123.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32064_124.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32062_125.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30365_126.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30365_127.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2436_128.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2436_129.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298_130.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298_131.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3675_132.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3675_133.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_134.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_135.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3297_136.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3297_137.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3666_138.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3666_139.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6636_140.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6636_141.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3665_142.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3665_143.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3747_144.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30364_145.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30364_146.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_147.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298_148.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069P09_149.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6217_150.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6048_151.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2654_152.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2654_153.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_154.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4070_155.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4070_156.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4070_157.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4070_158.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_159.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_160.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_161.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4740_162.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4740_163.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_164.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2555_165.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2412_166.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070P06_167.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070P06_168.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_169.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_170.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_171.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3794_172.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_173.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\970_174.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3040_175.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\971_176.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\972_177.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_178.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_179.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3623_180.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_181.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3001_182.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3002_183.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3004_184.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_185.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_186.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_187.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3001_188.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3001_189.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3010_190.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3010_191.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_192.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3701_193.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32000_194.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32000_195.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_196.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_197.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_198.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_199.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3038_200.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32054_201.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32054_202.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_203.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_204.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_205.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_206.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_207.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_208.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_209.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_210.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_211.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_212.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_213.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3894_214.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3666_215.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3665_216.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3665_217.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3010_218.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3702_219.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3460_220.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4162_221.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_222.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_223.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_224.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_225.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3705_226.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_227.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_228.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6222_229.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3943_230.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3795_231.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3022_232.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3961_233.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4150P01_234.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_235.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4773_236.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6217_237.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6048_238.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_239.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_240.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_241.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_242.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_243.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_244.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_245.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_246.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_247.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4773_248.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6222_249.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3943_250.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3795_251.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3022_252.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3961_253.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4150P01_254.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_255.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4773_256.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6217_257.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6048_258.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_259.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_260.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_261.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_262.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_263.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_264.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_265.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\75535_266.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_267.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4773_268.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6217_269.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6048_270.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3003_271.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6222_272.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6259_273.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6259_274.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3960_275.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_276.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_277.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32064_278.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32062_279.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30365_280.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30365_281.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2436_282.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2436_283.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298_284.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298_285.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3675_286.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3675_287.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_288.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_289.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3297_290.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3297_291.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3666_292.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3666_293.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6636_294.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6636_295.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3665_296.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3665_297.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3747_298.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30364_299.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30364_300.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_301.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298_302.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069P09_303.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6217_304.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6048_305.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2654_306.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2654_307.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_308.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4070_309.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4070_310.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4070_311.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4070_312.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_313.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2432_314.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070P06_315.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070P06_316.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_317.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_318.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3960_319.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_320.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3794_321.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_322.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\970_323.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3040_324.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\972_325.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\971_326.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\TB_JOINT_327.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32062_328.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32062_329.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\BALLAXLE_330.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32013_331.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_332.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3024_333.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3024_334.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3024_335.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6541_336.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6541_337.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3665_338.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4286_339.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_340.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_341.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6558_342.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32054_343.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\BALLAXLE_344.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3021_345.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_346.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3004_347.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3039_348.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_349.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_350.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3021_351.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_352.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_353.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2877_354.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30364_355.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30364_356.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_357.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_358.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_359.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298_360.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_361.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3039_362.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2432_363.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_364.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069P05_365.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3747_366.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3747_367.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3747_368.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3747_369.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3032_370.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30365_371.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30365_372.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_373.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_374.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3894_375.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3894_376.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3032_377.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3297_378.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3297_379.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_380.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_381.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2432_382.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6233_383.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_384.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_385.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32062_386.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\AXLE_ARM_HINGE_387.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32054_388.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_389.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3024_390.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3623_391.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_392.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_393.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6541_394.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6541_395.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30383_396.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_397.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_398.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_399.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_400.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_401.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_402.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_403.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_404.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_405.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_406.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_407.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3040_408.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3040_409.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_410.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_411.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_412.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_413.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_414.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3022_415.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6541_416.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6541_417.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_418.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_419.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3039_420.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_421.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_422.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_423.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_424.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_425.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_426.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_427.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_428.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_429.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_430.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_431.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_432.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_433.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_434.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_435.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_436.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_437.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_438.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_439.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_440.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2420_441.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2420_442.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_443.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_444.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_445.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_446.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298_447.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2744_448.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2744_449.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_450.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_451.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_452.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_453.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_454.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32054_455.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\BALLAXLE_456.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3021_457.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_458.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3004_459.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3039_460.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_461.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_462.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3021_463.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_464.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_465.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2877_466.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30364_467.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30364_468.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_469.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_470.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_471.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298_472.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3660_473.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3039_474.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2432_475.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_476.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069P05_477.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3747_478.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3747_479.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3747_480.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3747_481.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3032_482.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30365_483.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30365_484.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_485.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_486.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3894_487.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3894_488.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3032_489.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3297_490.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3297_491.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_492.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_493.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2432_494.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6233_495.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_496.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4274_497.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2654_498.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4855_499.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4855_500.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3022_501.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3794_502.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3794_503.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_504.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_505.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_506.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_507.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_508.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_509.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2654_510.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4855_511.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4855_512.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3022_513.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3794_514.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3794_515.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_516.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_517.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_518.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_519.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_520.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_521.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2654_522.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4855_523.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4855_524.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3022_525.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3794_526.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3794_527.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_528.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_529.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_530.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_531.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_532.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_533.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2654_534.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4855_535.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4855_536.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3022_537.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3794_538.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3794_539.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_540.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3710_541.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_542.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_543.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_544.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_545.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32062_546.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\AXLE_ARM_HINGE_547.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\32054_548.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_549.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3024_550.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3623_551.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_552.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3005_553.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6541_554.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6541_555.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\30383_556.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_557.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3022_558.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6541_559.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\6541_560.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_561.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_562.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3039_563.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_564.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_565.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_566.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_567.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_568.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_569.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_570.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_571.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_572.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_573.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_574.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_575.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_576.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_577.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_578.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_579.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_580.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_581.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_582.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_583.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2420_584.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2420_585.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_586.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_587.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_588.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3023_589.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3298_590.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2744_591.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\2744_592.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_593.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_594.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3069_595.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_596.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_597.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_598.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_599.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_600.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_601.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_602.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_603.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_604.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4073_605.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_606.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3020_607.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3040_608.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3040_609.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3700_610.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3068_611.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_612.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\3070_613.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject C:\LDRAW\MODELS\CH_atease_LW_Objects\4459_614.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+9
+1
+0.000000 0.000000 0.000000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+AddLight
+Lightname 
+ShowLight 1 7
+LightMotion (unnamed)
+9
+1
+-2.550000 2.550000 2.550000 0 0 0 1 1 1
+0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+ShadowType 1
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 7
+ClipRayColors 0
+RayRecursionLimit 16
+DataOverlayLabel 
+FullSceneParamEval 0
+
+ViewMode 3
+ViewAimpoint 0.000000 0.000000 0.000000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 4.000000
+GridNumber 40
+GridSize 1.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

@@ -1,0 +1,9 @@
+0 copperhead Neck
+0 Name: neck.dat
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 -39 1 "Custom" 
+0 ROTATION CONFIG 1 1
+1 7 0 -39 -39 1 0 0 0 0 -1 0 1 0 ballaxle.dat
+1 7 0 -40 -39 1 0 0 0 0 -1 0 1 0 32013.DAT
+0

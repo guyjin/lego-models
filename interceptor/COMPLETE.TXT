@@ -1,0 +1,126 @@
+The file COMPLETE.EXE contains all L-Cad LDraw parts, primitives
+and subparts from the following archives:
+ lcad9715.exe
+ lcad9716.exe
+ lcad9717.exe
+ lcad9801.exe
+ lcad9802.exe
+ lcad9803.exe
+ lcad9804.exe
+ lcad9805.exe
+ lcad9806.exe
+ lcad9807.exe
+ lcad9808.exe
+ lcad9809.exe
+ lcad9810.exe
+ lcad9901.exe
+ lcad9902.exe
+ lcad9903.exe
+ lcad9904.exe
+ lcad9905.exe
+ lcad9906.exe
+ lcad0001.exe Update 2000-01
+ lcad0002.exe Update 2000-02
+ lcad0101.exe Update 2001-01
+ lcad0102.exe Update 2001-02
+ lcad0103.exe Update 2001-03
+
+  It does NOT contain the original LDraw program or most
+  of the parts included in the original distribution archives.
+  This file only contains new parts and some original parts
+  that have been modified or fixed.
+  The original LDraw archive (ldraw.exe - approx. 1mb), and
+  the two original updates (lp97-13.exe/lp97-14.exe) *must*
+  be installed prior to installing the complete.exe parts update.
+
+ ----------------=< A T T E N T I O N >=-----------------
+
+1) -NEW parts.lst file generator!!!
+
+   This archive also contains a revised parts.lst generator
+   program named MKLST.EXE.  It _should_ work on any computer.
+   This replaces the original MAKELIST.EXE _and the follow-on
+   programs MAKELST2.EXE and MAKELST3.EXE.
+   The original will no longer work, and the 2 & 3 versions had
+   problems not working on some DOS and WinNT machines.
+
+   If MKLIST.EXE fails to work on your computer, you _must_ download
+   a current parts.lst file from:
+   http://hugin.risoe.dk/JJ_Memorial/partslst.html
+   AND, please let us know!  We can't fix it if we don't know
+   it is broke!
+
+
+2) -ATTENTION!!
+
+   Generally, when a part number is changed, a matching
+   "~Moved to" file is created to make the change painless to you, the
+   user.  But occasionally, that is not possible. Below are some
+   parts that have had their numbers changed, and that require you to 
+   manually update you model files, if necessary.
+
+  ("NEW" users may skip the rest of this section - but read section 3)
+
+ *** You only need to do this if you have _USED_ one of the       *** 
+ *** following files in a model.  If you have never used any      ***
+ *** of these, you can ignore this message, and skip this section ***
+  -------------------------------------------------
+ References in _your_ model files to:
+
+  -6238.dat Must be changed to 600.dat 
+        This is the Freestyle Door  1 x  6 x  6
+
+  -3137.dat Must be changed to 3137c01.dat
+        This is the Brick  2 x  2 with Wheels
+
+  -3149.dat Must be changed to 3149c01.dat
+        This is the Hinge Plate  2 x  5
+
+  -3324.dat Must be changed to 3324c01.dat
+        This is the Hinge Plate  2 x  9
+
+  -3939.dat Must be changed to 3942.dat
+        This is the Cone  2 x  2 x  2
+
+  -3942.dat Must be changed to 3943.dat
+        This is the Cone  4 x  4 x  2
+
+  -4319.dat is the Hinge Rod with Split Rod Holder 8L piece
+   2375.dat is the Hinge Rod with Split Rod Holder 12L piece
+   I mistakenly released these pieces with the numbers
+   transposed. So, if you have ever used one of these pieces,
+   you may want to doublecheck and make sure the right
+   piece is in your model.
+
+  -2562.dat Must be changed to 2536.dat
+        The old 2562/current 2536 is the Plant Tree Palm 
+        Trunk.  In update 2000-02, the Minifig Gun Flintlock 
+        Pistol was released as 2562.
+
+  ---------------------------------------------------
+
+3) -An informational note about "~Moved to" files:
+
+ You may notice that when you render models in LDraw, that
+ text messages show up in the upper left corner of the screen,
+ or in LDlite, show up briefly in the info bar along the bottom.
+ 
+ These are telling you that you are using parts that have been
+ moved, and that ldraw is jumping to the new part number.
+ Ideally you should not have any of those messages in your models.
+ You can prevent those from being in your model by not using
+ any parts that have a description line starting with "~Moved to".
+
+ You can fix older models by manually correcting the old numbers
+ or, if you have Win95 and LDrawAddon (LDAO), you can use LDAO's
+ 'Update Moved Parts' function in the 'Tools' menu to update most
+ moved parts in your own model files.
+ Each model file must be processed individually, and you should
+ BACK-UP the file before updating it. 
+ I have had no problems using this feature of LDAO, but it is
+ always better to be safe than sorry.
+ Hopefully, we will get a DOS program written to do the same
+ function for those without Win95.
+
+-- Steve Bliss
+part@ldraw.org

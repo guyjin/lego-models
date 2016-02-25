@@ -1,0 +1,31 @@
+0 Untitled
+0 Name: launcher.dat
+0 Author: Ben Vaughan
+0 Unofficial Model
+0 ROTATION CENTER 49.6667 2 0 1 "Custom" 
+0 ROTATION CONFIG 1 1
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 3031.DAT
+1 7 50 0 0 0 0 1 0 1 0 -1 0 0 3710.DAT
+1 7 20 -8 0 0 0 1 0 1 0 -1 0 0 3031.DAT
+1 7 50 -16 -30 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 50 -16 -10 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 50 -16 10 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 50 -16 30 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 30 -16 30 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 30 -16 10 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 30 -16 -10 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 30 -16 -30 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 10 -16 -30 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 10 -16 -10 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 10 -16 10 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 10 -16 30 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 -10 -16 30 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 -10 -16 10 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 -10 -16 -10 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 -10 -16 -30 0 0 1 0 1 0 -1 0 0 missle.dat
+1 7 -30 -8 0 0 0 1 0 1 0 -1 0 0 3710.DAT
+1 7 -30 -16 0 0 0 1 0 1 0 -1 0 0 3710.DAT
+1 7 -30 -40 0 0 0 1 0 1 0 -1 0 0 3010P15.DAT
+1 7 -30 -48 0 0 0 1 0 1 0 -1 0 0 3710.DAT
+1 15 -30 -56 0 0 0 1 0 1 0 -1 0 0 2431P02.DAT
+0

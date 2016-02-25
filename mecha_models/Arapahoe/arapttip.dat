@@ -1,0 +1,17 @@
+0 Arapahoe Toe Tip
+0 arapttip.dat
+0 Author: Ben Vaughan
+0 Unofficial Model
+0 ROTATION CENTER 0 -22.1991 10.2137 1 "Custom" 
+0 ROTATION CONFIG 1 1
+0 STEP
+1 7 30 -32 10 0 0 1 0 1 0 -1 0 0 3700.DAT
+1 0 30 -8 -10 0 0 1 0 1 0 -1 0 0 3710.DAT
+1 0 30 0 -10 0 0 1 0 1 0 -1 0 0 3710.DAT
+1 7 30 -32 -20 1 0 0 0 1 0 0 0 1 3040.DAT
+0 STEP
+1 7 -30 -32 10 0 0 1 0 1 0 -1 0 0 3700.DAT
+1 0 -30 -8 -10 0 0 1 0 1 0 -1 0 0 3710.DAT
+1 0 -30 0 -10 0 0 1 0 1 0 -1 0 0 3710.DAT
+1 7 -30 -32 -20 1 0 0 0 1 0 0 0 1 3040.DAT
+0

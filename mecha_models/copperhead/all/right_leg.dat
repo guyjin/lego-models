@@ -1,0 +1,17 @@
+0 Untitled
+0 Name: right_leg.dat
+0 Author: Ben Vaughan
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 1
+1 7 0 0 0 -1 0 0 0 1 0 0 0 -1 copheel.dat
+1 7 -30 -8 -50 1 0 0 0 1 0 0 0 1 copankle.dat
+1 7 -30 -16 -90 1 0 0 0 1 0 0 0 1 coptoetop.dat
+1 7 0 0 -170 -1 0 0 0 1 0 0 0 -1 coptoetip.dat
+1 7 -110 -117 -40 0 -1 0 1 0 0 0 0 1 shinarmor.dat
+1 7 -30 -127 56 0 0 -1 1 0 0 0 -1 0 shinpod.dat
+1 7 -50 -117 -18 1 0 0 0 0 -1 0 1 0 Rshin.dat
+1 7 50 -117 -40 0 1 0 1 0 0 0 0 -1 shinarmor.dat
+1 7 -30 -257 6 0 0 -1 -1 0 0 0 1 0 copRthigh.dat
+1 7 -21 -267 -40 -1 0 0 0 0 -1 0 -1 0 thigh_pin.dat
+0

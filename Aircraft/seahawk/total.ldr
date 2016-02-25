@@ -1,0 +1,15 @@
+0 Untitled
+0 Name: total.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 fuselage1.ldr
+1 7 -70 10 210 1 0 0 0 1 0 0 0 1 landing_gear_l1.ldr
+1 7 70 10 210 1 0 0 0 1 0 0 0 1 landing_gear_r1.ldr
+1 7 -70 -24 670 1 0 0 0 1 0 0 0 1 mad_towed_unit.ldr
+1 7 0 -144 360 1 0 0 0 1 0 0 0 1 main_rotor.ldr
+1 7 70 24 430 1 0 0 0 1 0 0 0 1 mk_46_lwt.ldr
+1 7 -70 24 450 1 0 0 0 1 0 0 0 1 mk_46_lwt.ldr
+1 7 -35 -150 960 0 1 0 -1 0 0 0 0 1 tail_rotor.ldr
+0

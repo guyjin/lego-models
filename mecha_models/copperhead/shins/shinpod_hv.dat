@@ -1,0 +1,11 @@
+0 Untitled
+0 Name: shinpod_hv.dat
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 1
+1 0 20 -8 0 1 0 0 0 1 0 0 0 1 3660.DAT
+1 0 20 -8 20 -1 0 0 0 1 0 0 0 -1 3660.DAT
+1 0 20 16 10 -1 0 0 0 1 0 0 0 -1 3941.DAT
+1 0 20 40 10 -1 0 0 0 1 0 0 0 -1 2654.DAT
+0

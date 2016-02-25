@@ -1,0 +1,17 @@
+0 Arapahoe Right Thigh
+0 araplthi.dat
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 1
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 3022.DAT
+1 7 0 -8 0 0 0 1 0 1 0 -1 0 0 3020.DAT
+1 7 -10 -32 40 0 0 -1 0 1 0 1 0 0 30364.DAT
+1 7 10 -32 40 0 0 -1 0 1 0 1 0 0 30364.DAT
+1 7 0 -32 10 1 0 0 0 1 0 0 0 1 32064.DAT
+1 0 0 -22 0 0 0 1 0 1 0 -1 0 0 3704.DAT
+1 7 -10 -22 -20 0 -1 0 0 0 -1 1 0 0 TB_JOINT.DAT
+1 7 0 -40 30 0 0 1 0 1 0 -1 0 0 3021.DAT
+1 7 -10 -40 -10 0 0 1 0 1 0 -1 0 0 3024.DAT
+1 7 0 -48 0 0 0 1 0 1 0 -1 0 0 3020.DAT
+0 Author: Ben Vaughan
+0 Unofficial Model
+0

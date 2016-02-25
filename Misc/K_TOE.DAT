@@ -1,0 +1,23 @@
+0 toe.dat
+0 Name: toe.dat
+0 Author: Ben Vaughan
+0 Unofficial Sub-Model
+1 8 0 0 0 1 0 0 0 1 0 0 0 1 3023.DAT
+1 8 0 -24 0 1 0 0 0 1 0 0 0 1 3700.DAT
+1 8 0 -24 -30 1 0 0 0 1 0 0 0 1 2817.DAT
+1 8 0 -48 0 1 0 0 0 1 0 0 0 1 3298.DAT
+1 0 20 -14 -30 -1 0 0 0 1 0 0 0 -1 4459.DAT
+1 0 -20 -14 -30 1 0 0 0 1 0 0 0 1 4459.DAT
+0 Inlined:  1 0 -30 0 -30 1 0 0 0 1 0 0 0 1 k_toe1.dat
+0 Name: NEW.DAT
+0 Author: Ben Vaughan
+1 8 -30 0 -30 0 0 1 0 1 0 -1 0 0 3023.DAT
+1 8 -30 -24 -50 0 0 1 0 1 0 -1 0 0 2744.DAT
+0
+0 Inlined:  1 0 30 0 -30 1 0 0 0 1 0 0 0 1 k_toe1.dat
+0 Name: NEW.DAT
+0 Author: Ben Vaughan
+1 8 30 0 -30 0 0 1 0 1 0 -1 0 0 3023.DAT
+1 8 30 -24 -50 0 0 1 0 1 0 -1 0 0 2744.DAT
+0
+0

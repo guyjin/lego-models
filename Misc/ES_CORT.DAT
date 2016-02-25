@@ -1,0 +1,25 @@
+0 Name: NEW.DAT
+0 Author: Ben Vaughan
+0 Inlined:  1 16 0 0 0 1 0 0 0 1 0 0 0 1 es_fus.dat
+0 Name: NEW.DAT
+0 Author: Ben Vaughan
+1 7 0 0 0 0 0 1 0 1 0 -1 0 0 3666.DAT
+1 1 0 -8 -40 0 0 1 0 1 0 -1 0 0 3069.DAT
+0
+0 Inlined:  1 16 -10 0 40 1 0 0 0 1 0 0 0 1 es_lwing.dat
+0 Name: NEW.DAT
+0 Author: Ben Vaughan
+1 7 -10 0 40 0 -1 0 0 0 1 -1 0 0 3020.DAT
+1 7 -46 20 40 0 0 -1 0 1 0 1 0 0 3956.DAT
+1 7 -54 -20 40 0 0 -1 0 -1 0 -1 0 0 3956.DAT
+1 7 -18 0 10 0 -1 0 1 0 0 0 0 1 3945.DAT
+0
+0 Inlined:  1 16 10 0 40 1 0 0 0 1 0 0 0 1 es_rwing.dat
+0 Name: NEW.DAT
+0 Author: Ben Vaughan
+1 7 10 0 40 0 1 0 0 0 -1 -1 0 0 3020.DAT
+1 7 54 -20 40 0 0 1 0 -1 0 1 0 0 3956.DAT
+1 7 46 20 40 0 0 1 0 1 0 -1 0 0 3956.DAT
+1 7 18 0 10 0 1 0 -1 0 0 0 0 1 3945.DAT
+0
+0

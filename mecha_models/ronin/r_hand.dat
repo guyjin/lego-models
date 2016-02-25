@@ -1,0 +1,12 @@
+0 Ronin Hand
+0 Name: r_hand.dat
+0 Author: Ben Vaughan
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 1
+1 7 0 10.5 8.5 1 0 0 0 0 1 0 -1 0 972.DAT
+1 7 0 -2 8 1 0 0 0 1 0 0 0 1 970.DAT
+1 7 0 10.5 8.5 1 0 0 0 0 1 0 -1 0 971.DAT
+1 7 0 -24 10 1 0 0 0 1 0 0 0 1 3039.DAT
+1 7 0 -32 10 1 0 0 0 1 0 0 0 1 3794.DAT
+0

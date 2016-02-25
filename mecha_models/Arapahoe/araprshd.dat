@@ -1,0 +1,10 @@
+0 Arapahoe Rear Shield
+0 araprshd
+0 ROTATION CENTER 0 3.81188 -29.4919 1 "Custom" 
+0 ROTATION CONFIG 1 1
+1 0 -10 0 0 0 0 1 0 1 0 -1 0 0 4276.DAT
+1 0 10 0 0 0 0 1 0 1 0 -1 0 0 4276.DAT
+1 0 0 -8 50 -1 0 0 0 1 0 0 0 -1 2625.DAT
+0 Author: Ben Vaughan
+0 Unofficial Model
+0

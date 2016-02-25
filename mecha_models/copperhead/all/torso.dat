@@ -1,0 +1,14 @@
+0 Untitled
+0 Name: torso.dat
+0 Author: MLCad
+0 Unofficial Model
+0 WRITE Waist
+0 ROTATION CENTER -61.8194 0.238515 -38.7938 1 "Custom" 
+0 ROTATION CONFIG 1 1
+1 0 -112 -56 -57 1 0 0 0 1 0 0 0 1 rtchst.dat
+1 0 -32 -32 -57 1 0 0 0 1 0 0 0 1 midchst.dat
+1 0 -62 -88 -87 1 0 0 0 1 0 0 0 1 chstplat.dat
+0 WRITE Right shoulder
+0 WRITE right arm
+1 0 48 -56 -57 1 0 0 0 1 0 0 0 1 lftchst.dat
+0

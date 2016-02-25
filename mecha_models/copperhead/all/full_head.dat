@@ -1,0 +1,10 @@
+0 Untitled
+0 Name: full_head.dat
+0 Author: Ben Vaughan
+0 Unofficial Model
+0 ROTATION CENTER 0 -8.84986 -21.3349 1 "Custom" 
+0 ROTATION CONFIG 1 1
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 collar.dat
+1 7 39.335 -10 -21.335 0 0 1 0 1 0 -1 0 0 neck.dat
+1 7 0 -36 -51 1 0 0 0 1 0 0 0 1 head.dat
+0

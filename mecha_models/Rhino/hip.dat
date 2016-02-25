@@ -1,0 +1,12 @@
+0 Untitled
+0 Name: hip.dat
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 0 0 -60 1 0 0 0 1 0 0 0 1 ballaxle.dat
+1 0 0 0 -70 0 0 1 0 1 0 -1 0 0 3705.DAT
+1 7 0 0 -80 -1 0 0 0 1 0 0 0 -1 3713.DAT
+1 7 0 0 -60 -1 0 0 0 -1 0 0 0 1 3713.DAT
+1 0 0 0 -80 -1 0 0 0 1 0 0 0 -1 ballaxle.dat
+0

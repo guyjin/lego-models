@@ -1,0 +1,28 @@
+0 Untitled
+0 Name: copankle.dat
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CENTER 0 -88.3333 64 1 "Custom" 
+0 ROTATION CONFIG 1 1
+1 7 0 0 0 0 0 1 0 1 0 -1 0 0 3023.DAT
+1 7 0 -8 -10 0 0 1 0 1 0 -1 0 0 3024.DAT
+0 STEP
+1 7 0 -8 10 -1 0 0 0 1 0 0 0 -1 3623.DAT
+1 7 -20 -32 10 -1 0 0 0 1 0 0 0 -1 3005.DAT
+1 7 20 -32 10 -1 0 0 0 1 0 0 0 -1 3005.DAT
+0 STEP
+1 7 0 -32 10 -1 0 0 0 1 0 0 0 -1 6541.DAT
+0 STEP
+1 7 0 -32 -10 -1 0 0 0 1 0 0 0 -1 6541.DAT
+0 STEP
+1 7 0 -40 0 0 0 -1 0 1 0 1 0 0 30383.DAT
+1 7 0 -48 -10 0 0 -1 0 1 0 1 0 0 3070.DAT
+0 STEP
+1 7 0 -79 19 0 0 -1 1 0 0 0 -1 0 axle_arm_hinge.dat
+0 STEP
+1 0 0 -79 10 0 0 1 -1 0 0 0 -1 0 32062.DAT
+0 STEP
+1 4 0 -109 10 0 0 1 -1 0 0 0 -1 0 32054.DAT
+0 STEP
+0

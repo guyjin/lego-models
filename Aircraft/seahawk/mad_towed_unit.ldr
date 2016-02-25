@@ -1,0 +1,13 @@
+0 Untitled
+0 Name: MAD_towed_unit.ldr
+0 Author: Bryce Rollins
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG -2 1
+1 25 0 10 14 0 0 -1 -1 0 0 0 1 0 28.DAT
+1 0 0 10 -41.999 -1 0 0 0 0 1 0 1 0 299.DAT
+1 14 0 10 -10 -1 0 0 0 0 1 0 1 0 4733.DAT
+1 25 0 10 -18 -1 0 0 0 0 1 0 1 0 4073.DAT
+1 14 0 10 38 -1 0 0 0 0 1 0 1 0 4073.DAT
+1 25 0 10 46 -1 0 0 0 0 1 0 1 0 4740.DAT
+0

@@ -1,0 +1,14 @@
+0 Arapahoe Right Hand
+0 Name: arapRhnd.dat
+0 Author: Ben Vaughan
+0 ROTATION CENTER 10 -54 1 1 "Custom" 
+0 ROTATION CONFIG 1 1
+0 STEP
+1 7 10 -22 1 1 0 0 0 1 0 0 0 1 3815.dat
+0 STEP
+0 STEP
+1 7 0 -46 1 1 0 0 0 1 0 0 0 1 3040b.dat
+1 7 20 -46 1 1 0 0 0 1 0 0 0 1 3005.DAT
+1 7 10 -54 1 1 0 0 0 1 0 0 0 1 3794a.dat
+0 
+0 STEP

@@ -1,0 +1,14 @@
+0 Arapahoe Left Hand
+0 Name: arapLhnd.dat
+0 Author: Ben Vaughan
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 1
+0 STEP
+1 7 10 -22 1 1 0 0 0 1 0 0 0 1 970.DAT
+0 STEP
+0 STEP
+1 7 20 -46 1 1 0 0 0 1 0 0 0 1 3040.DAT
+1 7 0 -46 1 1 0 0 0 1 0 0 0 1 3005.DAT
+1 7 10 -54 1 1 0 0 0 1 0 0 0 1 3794.DAT
+0

@@ -1,0 +1,14 @@
+0 Copperhead Toe Top
+0 Name: coptoetop.dat
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 1
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 3022.DAT
+1 7 -10 -24 -10 0 0 1 0 1 0 -1 0 0 6541.DAT
+1 7 10 -24 -10 0 0 1 0 1 0 -1 0 0 6541.DAT
+1 7 0 -24 10 -1 0 0 0 1 0 0 0 -1 3700.DAT
+1 0 0 -14 20 0 0 -1 0 1 0 1 0 0 4459.DAT
+1 7 0 -48 10 1 0 0 0 1 0 0 0 1 3039.DAT
+1 7 0 -56 10 1 0 0 0 1 0 0 0 1 3069.DAT
+0

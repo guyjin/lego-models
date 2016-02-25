@@ -1,0 +1,14 @@
+0 Ronin Ankle
+0 Name: ronin_ankle.dat
+0 Author: Ben Vaughan
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 1
+1 7 -10 -32 0 1 0 0 0 1 0 0 0 1 3003.DAT
+0 STEP
+1 0 -20 -56 0 -3.33067e-015 0 -1 0 1 0 1 0 -3.33067e-015 3700.DAT
+1 0 0 -56 0 -3.33067e-015 0 -1 0 1 0 1 0 -3.33067e-015 3700.DAT
+0 STEP
+1 7 -10 -64 0 1 0 0 0 1 0 0 0 1 3022.DAT
+0 STEP
+0
